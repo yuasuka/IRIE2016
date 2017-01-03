@@ -1,0 +1,12 @@
+
+*.csv
+
+*.txt
+
+SF2017/
+
+*.log
+
+ClassMethod/Oldfilebox/
+
+_DelSyncFiles/
